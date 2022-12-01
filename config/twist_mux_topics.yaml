@@ -16,3 +16,7 @@ twist_mux:
         topic   : joy_vel
         timeout : 0.5
         priority: 100
+      doughnut_calib:
+        topic   : doughnut_cmd_vel
+        timeout : 0.5
+        priority: 20
