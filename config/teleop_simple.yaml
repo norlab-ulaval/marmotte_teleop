@@ -14,3 +14,7 @@ teleop_twist_joy_node:
 
     enable_button: 5  # L2 shoulder button
     enable_turbo_button: 0  # L1 shoulder button
+    enable_track_control_button: 3
+    base_width: 0.52
+    wheel_radius: 0.125
+    deadzone: 0.1
